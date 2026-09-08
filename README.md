@@ -16,4 +16,5 @@ An iOS app that helps you keep track of your plants' watering schedule, so none 
 - MVVM Architecture
 
 ## Screenshots
-*(Add a screenshot of the app here)*
+<img width="377" height="752" alt="‏لقطة الشاشة ١٤٤٨-٠٣-٢٦ في ٨ ٣٣ ٠٤ م" src="https://github.com/user-attachments/assets/992a699d-f803-4ca6-9c47-f5af936953d6" />
+
